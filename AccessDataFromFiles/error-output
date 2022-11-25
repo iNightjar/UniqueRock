@@ -1,0 +1,51 @@
+Nov 23 16:04:45 RIP kscreenlocker_greet[41627]: file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/components/VirtualKeyboard.qml:16: TypeError: Cannot read property 'width' of null
+Nov 23 16:04:45 RIP kscreenlocker_greet[41627]: file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/components/VirtualKeyboard.qml:34: TypeError: Cannot read property 'height' of null
+Nov 23 16:05:44 RIP plasmashell[1515]: file:///usr/share/plasma/plasmoids/org.kde.plasma.mediacontroller/contents/ui/CompactRepresentation.qml:77: TypeError: Cannot read property 'implicitWidth' of null
+Nov 23 16:08:46 RIP matray[1684]: Error occurred fetching news:
+Nov 23 16:09:14 RIP plasmashell[42977]: [2022-11-23T14:09:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 16:09:14 RIP plasmashell[42977]: [2022-11-23T14:09:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 16:09:14 RIP plasmashell[42977]: [2022-11-23T14:09:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 16:09:14 RIP plasmashell[42977]: [2022-11-23T14:09:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 16:16:52 RIP plasmashell[1515]: libkcups: Renew-Subscription last error: 1030 Subscription #631 does not exist.
+Nov 23 16:16:52 RIP plasmashell[1515]: libkcups: Create-Printer-Subscriptions last error: 1024 notify-events not specified.
+Nov 23 16:16:52 RIP plasmashell[1515]: libkcups: Create-Printer-Subscriptions last error: 0 successful-ok
+Nov 23 16:18:54 RIP matray[1684]: Error occurred fetching news:
+Nov 23 16:28:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc3659f3180] decode_slice_header error
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc365a3c040] decode_slice_header error
+Nov 23 16:35:39 RIP kwin_x11[1487]: kwin_core: XCB error: 152 (BadDamage), sequence: 1154, resource id: 15843761, major code: 143 (DAMAGE), minor code: 3 (Subtract)
+Nov 23 16:35:47 RIP kwin_x11[1487]: kwin_core: XCB error: 152 (BadDamage), sequence: 4360, resource id: 15843640, major code: 143 (DAMAGE), minor code: 3 (Subtract)
+Nov 23 16:38:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 16:45:55 RIP kwin_x11[1487]: kwin_core: XCB error: 152 (BadDamage), sequence: 52663, resource id: 15861395, major code: 143 (DAMAGE), minor code: 3 (Subtract)
+Nov 23 16:46:35 RIP kwin_x11[1487]: kwin_core: XCB error: 152 (BadDamage), sequence: 62669, resource id: 15862633, major code: 143 (DAMAGE), minor code: 3 (Subtract)
+Nov 23 16:48:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 16:58:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:08:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:14:52 RIP kscreenlocker_greet[49270]: Qt: Session management error: networkIdsList argument is NULL
+Nov 23 17:15:12 RIP plasmashell[1515]: libkcups: Renew-Subscription last error: 0 successful-ok
+Nov 23 17:18:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:28:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:38:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:42:55 RIP kscreenlocker_greet[49798]: Qt: Session management error: networkIdsList argument is NULL
+Nov 23 17:45:54 RIP kscreenlocker_greet[49798]: file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/components/VirtualKeyboard.qml:16: TypeError: Cannot read property 'width' of null
+Nov 23 17:45:54 RIP kscreenlocker_greet[49798]: file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/components/VirtualKeyboard.qml:34: TypeError: Cannot read property 'height' of null
+Nov 23 17:46:04 RIP plasmashell[49388]: [2022-11-23T15:46:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 17:46:04 RIP plasmashell[49388]: [2022-11-23T15:46:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 17:46:04 RIP plasmashell[49388]: [2022-11-23T15:46:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 17:46:15 RIP plasmashell[49388]: [2022-11-23T15:46:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Nov 23 17:46:15 RIP plasmashell[49388]: [Child 49388, MediaDecoderStateMachine #1] WARNING: Decoder=7f6c40c70100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/src/firefox-107.0/dom/media/MediaDecoderStateMachineBase.cpp:151
+Nov 23 17:46:15 RIP plasmashell[49388]: [Child 49388, MediaDecoderStateMachine #1] WARNING: Decoder=7f6c54105800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/src/firefox-107.0/dom/media/MediaDecoderStateMachineBase.cpp:151
+Nov 23 17:48:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 17:58:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:08:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:13:32 RIP plasmashell[1515]: libkcups: Renew-Subscription last error: 0 successful-ok
+Nov 23 18:18:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:28:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:38:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:48:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 18:58:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 19:06:26 RIP kscreenlocker_greet[52211]: Qt: Session management error: networkIdsList argument is NULL
+Nov 23 19:08:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 19:11:52 RIP plasmashell[1515]: libkcups: Renew-Subscription last error: 0 successful-ok
+Nov 23 19:18:45 RIP matray[1684]: Error occurred fetching news:
+Nov 23 19:21:39 RIP kscreenlocker_greet[52623]: Qt: Session management error: networkIdsList argument is NULL

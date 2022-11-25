@@ -1,0 +1,293 @@
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.up.pt/pub/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.up.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.up.pt/pub/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.up.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.up.pt/pub/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.up.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.up.pt/pub/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.up.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ocf.berkeley.edu/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.ocf.berkeley.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ocf.berkeley.edu/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.ocf.berkeley.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ocf.berkeley.edu/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.ocf.berkeley.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ocf.berkeley.edu/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.ocf.berkeley.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.netcologne.de/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.netcologne.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.netcologne.de/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.netcologne.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.netcologne.de/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.netcologne.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.netcologne.de/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.netcologne.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.csclub.uwaterloo.ca/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.csclub.uwaterloo.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.csclub.uwaterloo.ca/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.csclub.uwaterloo.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.csclub.uwaterloo.ca/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.csclub.uwaterloo.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.csclub.uwaterloo.ca/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.csclub.uwaterloo.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ucr.ac.cr/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.ucr.ac.cr
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ucr.ac.cr/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.ucr.ac.cr
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ucr.ac.cr/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.ucr.ac.cr
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.ucr.ac.cr/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.ucr.ac.cr
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.futureweb.be/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.futureweb.be
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.futureweb.be/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.futureweb.be
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.futureweb.be/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.futureweb.be
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.futureweb.be/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.futureweb.be
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.telepoint.bg/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.telepoint.bg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.telepoint.bg/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.telepoint.bg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.telepoint.bg/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.telepoint.bg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ba.mirror.garr.it/mirrors/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ba.mirror.garr.it
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ba.mirror.garr.it/mirrors/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ba.mirror.garr.it
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ba.mirror.garr.it/mirrors/manjaro/stable/community/x86_64/community.files: Could not resolve host: ba.mirror.garr.it
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.init7.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.init7.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.init7.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.init7.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.init7.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.init7.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.fossho.st/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.fossho.st
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.fossho.st/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.fossho.st
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.fossho.st/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.fossho.st
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.fcix.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.fcix.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.telepoint.bg/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.telepoint.bg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.fcix.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.ibakerserver.pt/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.ibakerserver.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.ibakerserver.pt/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.ibakerserver.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ba.mirror.garr.it/mirrors/manjaro/stable/core/x86_64/core.files: Could not resolve host: ba.mirror.garr.it
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.ibakerserver.pt/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.ibakerserver.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ridgewireless.mm.fcix.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ridgewireless.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ridgewireless.mm.fcix.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ridgewireless.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ridgewireless.mm.fcix.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: ridgewireless.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.init7.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.init7.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.halifax.rwth-aachen.de/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.halifax.rwth-aachen.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.halifax.rwth-aachen.de/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.halifax.rwth-aachen.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.zetup.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.zetup.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.halifax.rwth-aachen.de/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.halifax.rwth-aachen.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.zetup.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.zetup.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.fossho.st/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.fossho.st
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.freedif.org/Manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.freedif.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.freedif.org/Manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.freedif.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.fcix.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.zetup.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.zetup.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.math.princeton.edu/pub/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.math.princeton.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.math.princeton.edu/pub/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.math.princeton.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.ibakerserver.pt/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.ibakerserver.pt
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.freedif.org/Manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.freedif.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://quantum-mirror.hu/mirrors/pub/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: quantum-mirror.hu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://quantum-mirror.hu/mirrors/pub/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: quantum-mirror.hu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ridgewireless.mm.fcix.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: ridgewireless.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.math.princeton.edu/pub/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.math.princeton.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.is.co.za/mirrors/manjaro.org/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.is.co.za
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.is.co.za/mirrors/manjaro.org/stable/extra/x86_64/extra.files: Could not resolve host: mirror.is.co.za
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://quantum-mirror.hu/mirrors/pub/manjaro/stable/community/x86_64/community.files: Could not resolve host: quantum-mirror.hu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://osmirror.org/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: osmirror.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://osmirror.org/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: osmirror.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.halifax.rwth-aachen.de/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.halifax.rwth-aachen.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.is.co.za/mirrors/manjaro.org/stable/community/x86_64/community.files: Could not resolve host: mirror.is.co.za
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.kyberorg.fi/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.kyberorg.fi
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.kyberorg.fi/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.kyberorg.fi
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.zetup.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.zetup.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://osmirror.org/manjaro/stable/community/x86_64/community.files: Could not resolve host: osmirror.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.freedif.org/Manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.freedif.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.moson.org/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.moson.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.kyberorg.fi/stable/community/x86_64/community.files: Could not resolve host: manjaro.kyberorg.fi
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.moson.org/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.moson.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.math.princeton.edu/pub/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.math.princeton.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirrors.colocall.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.colocall.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.moson.org/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.moson.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirrors.colocall.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.colocall.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://quantum-mirror.hu/mirrors/pub/manjaro/stable/core/x86_64/core.files: Could not resolve host: quantum-mirror.hu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.xenyth.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.xenyth.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirrors.colocall.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.colocall.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.xenyth.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.xenyth.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.is.co.za/mirrors/manjaro.org/stable/core/x86_64/core.files: Could not resolve host: mirror.is.co.za
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.astra.in.ua/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.astra.in.ua
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.xenyth.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.xenyth.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.astra.in.ua/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.astra.in.ua
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://osmirror.org/manjaro/stable/core/x86_64/core.files: Could not resolve host: osmirror.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://www.mirrorservice.org/sites/repo.manjaro.org/repos/stable/multilib/x86_64/multilib.files: Could not resolve host: www.mirrorservice.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://www.mirrorservice.org/sites/repo.manjaro.org/repos/stable/extra/x86_64/extra.files: Could not resolve host: www.mirrorservice.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.kyberorg.fi/stable/core/x86_64/core.files: Could not resolve host: manjaro.kyberorg.fi
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.astra.in.ua/stable/community/x86_64/community.files: Could not resolve host: manjaro.astra.in.ua
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://forksystems.mm.fcix.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: forksystems.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://forksystems.mm.fcix.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: forksystems.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.moson.org/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.moson.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://www.mirrorservice.org/sites/repo.manjaro.org/repos/stable/community/x86_64/community.files: Could not resolve host: www.mirrorservice.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://muug.ca/mirror/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: muug.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirrors.colocall.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.colocall.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://forksystems.mm.fcix.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: forksystems.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://muug.ca/mirror/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: muug.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tsukuba.wide.ad.jp/Linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.tsukuba.wide.ad.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.xenyth.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.xenyth.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://muug.ca/mirror/manjaro/stable/community/x86_64/community.files: Could not resolve host: muug.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tsukuba.wide.ad.jp/Linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.tsukuba.wide.ad.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.ialab.dsu.edu/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: repo.ialab.dsu.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.astra.in.ua/stable/core/x86_64/core.files: Could not resolve host: manjaro.astra.in.ua
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tsukuba.wide.ad.jp/Linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.tsukuba.wide.ad.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.ialab.dsu.edu/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: repo.ialab.dsu.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.archlinux.tw/Manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.archlinux.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://www.mirrorservice.org/sites/repo.manjaro.org/repos/stable/core/x86_64/core.files: Could not resolve host: www.mirrorservice.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.ialab.dsu.edu/manjaro/stable/community/x86_64/community.files: Could not resolve host: repo.ialab.dsu.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.archlinux.tw/Manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.archlinux.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://forksystems.mm.fcix.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: forksystems.mm.fcix.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.archlinux.tw/Manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.archlinux.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.datacenter.by/pub/mirrors/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.datacenter.by
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.datacenter.by/pub/mirrors/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.datacenter.by
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://muug.ca/mirror/manjaro/stable/core/x86_64/core.files: Could not resolve host: muug.ca
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.datacenter.by/pub/mirrors/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.datacenter.by
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.koddos.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.koddos.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.koddos.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.koddos.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tsukuba.wide.ad.jp/Linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.tsukuba.wide.ad.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.koddos.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.koddos.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.repo.cure.edu.uy/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.repo.cure.edu.uy
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.ialab.dsu.edu/manjaro/stable/core/x86_64/core.files: Could not resolve host: repo.ialab.dsu.edu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.repo.cure.edu.uy/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.repo.cure.edu.uy
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.repo.cure.edu.uy/stable/community/x86_64/community.files: Could not resolve host: manjaro.repo.cure.edu.uy
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.archlinux.tw/Manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.archlinux.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tu-chemnitz.de/pub/linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.tu-chemnitz.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tu-chemnitz.de/pub/linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.tu-chemnitz.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tu-chemnitz.de/pub/linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.tu-chemnitz.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.datacenter.by/pub/mirrors/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.datacenter.by
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftpmirror1.infania.net/mirror/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftpmirror1.infania.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftpmirror1.infania.net/mirror/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftpmirror1.infania.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftpmirror1.infania.net/mirror/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftpmirror1.infania.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.koddos.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.koddos.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.repo.cure.edu.uy/stable/core/x86_64/core.files: Could not resolve host: manjaro.repo.cure.edu.uy
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.gethosted.online/manjaro/repos/stable/community/x86_64/community.files: Could not resolve host: mirrors.gethosted.online
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.tu-chemnitz.de/pub/linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.tu-chemnitz.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.funami.tech/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.funami.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftpmirror1.infania.net/mirror/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftpmirror1.infania.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.riken.jp/Linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.riken.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.gethosted.online/manjaro/repos/stable/core/x86_64/core.files: Could not resolve host: mirrors.gethosted.online
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.gethosted.online/manjaro/repos/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.gethosted.online
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.c3sl.ufpr.br/stable/community/x86_64/community.files: Could not resolve host: manjaro.c3sl.ufpr.br
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.funami.tech/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.funami.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.funami.tech/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.funami.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.terrahost.no/linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.terrahost.no
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.riken.jp/Linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.riken.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.gethosted.online/manjaro/repos/stable/extra/x86_64/extra.files: Could not resolve host: mirrors.gethosted.online
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.riken.jp/Linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.riken.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.snt.utwente.nl/pub/linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.snt.utwente.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.funami.tech/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.funami.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.c3sl.ufpr.br/stable/core/x86_64/core.files: Could not resolve host: manjaro.c3sl.ufpr.br
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.c3sl.ufpr.br/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.c3sl.ufpr.br
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.lucassymons.net/stable/community/x86_64/community.files: Could not resolve host: manjaro.lucassymons.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.terrahost.no/linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.terrahost.no
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.terrahost.no/linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.terrahost.no
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.kku.ac.th/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.kku.ac.th
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.riken.jp/Linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.riken.jp
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.snt.utwente.nl/pub/linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.snt.utwente.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.snt.utwente.nl/pub/linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.snt.utwente.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.osmir.ch/stable/community/x86_64/community.files: Could not resolve host: manjaro.osmir.ch
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.c3sl.ufpr.br/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.c3sl.ufpr.br
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.lucassymons.net/stable/core/x86_64/core.files: Could not resolve host: manjaro.lucassymons.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.lucassymons.net/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.lucassymons.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.caliu.cat/pub/distribucions/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.caliu.cat
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.terrahost.no/linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.terrahost.no
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.kku.ac.th/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.kku.ac.th
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://bd.mirror.vanehost.com/Manjaro/stable/community/x86_64/community.files: Could not resolve host: bd.mirror.vanehost.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.kku.ac.th/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.kku.ac.th
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.osmir.ch/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.osmir.ch
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alwyzon.net/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.alwyzon.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.snt.utwente.nl/pub/linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.snt.utwente.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.osmir.ch/stable/core/x86_64/core.files: Could not resolve host: manjaro.osmir.ch
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.caliu.cat/pub/distribucions/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.caliu.cat
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.tarnkappe.info/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.tarnkappe.info
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.lucassymons.net/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.lucassymons.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.caliu.cat/pub/distribucions/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.caliu.cat
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://bd.mirror.vanehost.com/Manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: bd.mirror.vanehost.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.mirror.liquidtelecom.com/stable/community/x86_64/community.files: Could not resolve host: manjaro.mirror.liquidtelecom.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.kku.ac.th/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.kku.ac.th
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://bd.mirror.vanehost.com/Manjaro/stable/core/x86_64/core.files: Could not resolve host: bd.mirror.vanehost.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alwyzon.net/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.alwyzon.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alwyzon.net/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.alwyzon.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alpix.eu/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.alpix.eu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.osmir.ch/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.osmir.ch
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.tarnkappe.info/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.tarnkappe.info
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.tarnkappe.info/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.tarnkappe.info
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.dkm.cz/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.dkm.cz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.caliu.cat/pub/distribucions/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.caliu.cat
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.mirror.liquidtelecom.com/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.mirror.liquidtelecom.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.mirror.liquidtelecom.com/stable/core/x86_64/core.files: Could not resolve host: manjaro.mirror.liquidtelecom.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.ipacct.com/manjaro/stable/community/x86_64/community.files: Could not resolve host: manjaro.ipacct.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alpix.eu/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.alpix.eu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alpix.eu/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.alpix.eu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.albony.xyz/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.albony.xyz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.dkm.cz/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.dkm.cz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.dkm.cz/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.dkm.cz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://bd.mirror.vanehost.com/Manjaro/stable/extra/x86_64/extra.files: Could not resolve host: bd.mirror.vanehost.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.nluug.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.ipacct.com/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: manjaro.ipacct.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.ipacct.com/manjaro/stable/core/x86_64/core.files: Could not resolve host: manjaro.ipacct.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alwyzon.net/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.alwyzon.net
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://free.nchc.org.tw/manjaro/stable/community/x86_64/community.files: Could not resolve host: free.nchc.org.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.albony.xyz/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.albony.xyz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.albony.xyz/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.albony.xyz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.xeonbd.com/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.xeonbd.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.nluug.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.tarnkappe.info/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.tarnkappe.info
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable/core/x86_64/core.files: Could not resolve host: ftp.nluug.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.easyname.at/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.easyname.at
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://free.nchc.org.tw/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: free.nchc.org.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.mirror.liquidtelecom.com/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.mirror.liquidtelecom.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://free.nchc.org.tw/manjaro/stable/core/x86_64/core.files: Could not resolve host: free.nchc.org.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ossmirror.mycloud.services/os/linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ossmirror.mycloud.services
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.xeonbd.com/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.xeonbd.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.alpix.eu/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.alpix.eu
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.xeonbd.com/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.xeonbd.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://download.nus.edu.sg/mirror/manjaro/stable/community/x86_64/community.files: Could not resolve host: download.nus.edu.sg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.dkm.cz/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.dkm.cz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.easyname.at/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.easyname.at
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.easyname.at/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.easyname.at
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://manjaro.ipacct.com/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: manjaro.ipacct.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ossmirror.mycloud.services/os/linux/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: ossmirror.mycloud.services
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ossmirror.mycloud.services/os/linux/manjaro/stable/core/x86_64/core.files: Could not resolve host: ossmirror.mycloud.services
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.bardia.tech/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.bardia.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.albony.xyz/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.albony.xyz
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://download.nus.edu.sg/mirror/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: download.nus.edu.sg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://download.nus.edu.sg/mirror/manjaro/stable/core/x86_64/core.files: Could not resolve host: download.nus.edu.sg
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ftp.nluug.nl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.free.org/mirrors/repo.manjaro.org/repos/stable/community/x86_64/community.files: Could not resolve host: ftp.free.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirrors.tuna.tsinghua.edu.cn
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.skni.umcs.pl/manjaro/stable/community/x86_64/community.files: Could not resolve host: repo.skni.umcs.pl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://free.nchc.org.tw/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: free.nchc.org.tw
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.truenetwork.ru/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.truenetwork.ru
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.bardia.tech/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.bardia.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://mirror.xeonbd.com/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.xeonbd.com
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.guillaumea.fr/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.guillaumea.fr
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.free.org/mirrors/repo.manjaro.org/repos/stable/multilib/x86_64/multilib.files: Could not resolve host: ftp.free.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.bardia.tech/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.bardia.tech
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.cyberhost.uk/sites/manjaro/stable/community/x86_64/community.files: Could not resolve host: mirror.cyberhost.uk
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.skni.umcs.pl/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: repo.skni.umcs.pl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ftp.free.org/mirrors/repo.manjaro.org/repos/stable/core/x86_64/core.files: Could not resolve host: ftp.free.org
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.easyname.at/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: mirror.easyname.at
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://repo.skni.umcs.pl/manjaro/stable/core/x86_64/core.files: Could not resolve host: repo.skni.umcs.pl
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://ftp.gwdg.de/pub/linux/manjaro/stable/community/x86_64/community.files: Could not resolve host: ftp.gwdg.de
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.truenetwork.ru/manjaro/stable/multilib/x86_64/multilib.files: Could not resolve host: mirror.truenetwork.ru
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: http://ossmirror.mycloud.services/os/linux/manjaro/stable/extra/x86_64/extra.files: Could not resolve host: ossmirror.mycloud.services
+Nov 23 16:03:31 RIP pkgfile[41801]: warning: download failed: https://mirror.truenetwork.ru/manjaro/stable/core/x86_64/core.files: Could not resolve host: mirror.truenetwork.ru
+Nov 23 16:03:31 RIP systemd[1]: pkgfile-update.service: Main process exited, code=exited, status=1/FAILURE
+Nov 23 16:03:31 RIP systemd[1]: pkgfile-update.service: Failed with result 'exit-code'.
+Nov 23 16:03:31 RIP systemd[1]: Failed to start pkgfile database update.
+Nov 23 16:03:31 RIP audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=unconfined msg='unit=pkgfile-update comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=failed'
+Nov 23 16:03:31 RIP kernel: audit: type=1130 audit(1669212211.407:568): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=unconfined msg='unit=pkgfile-update comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=failed'
+Nov 23 16:03:43 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 16:08:46 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 16:16:52 RIP plasmashell[1515]: libkcups: Request failed 1024 -1
+Nov 23 16:31:51 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc3659f3180] get_buffer() failed
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc3659f3180] thread_get_buffer() failed
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc365a3c040] get_buffer() failed
+Nov 23 16:35:19 RIP kglobalaccel5[42661]: [h264 @ 0x7fc365a3c040] thread_get_buffer() failed
+Nov 23 16:35:19 RIP vlc[42661]: uint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&): Condition failed: menu
+Nov 23 16:38:45 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 16:45:52 RIP systemd[1]: Bluetooth service was skipped because of a failed condition check (ConditionPathIsDirectory=/sys/class/bluetooth).
+Nov 23 16:46:17 RIP dbus-daemon[529]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Nov 23 17:14:52 RIP kscreenlocker_greet[49270]: kf.kirigami: Failed to find a Kirigami platform plugin
+Nov 23 17:16:21 RIP dbus-daemon[529]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.home1.service': Unit dbus-org.freedesktop.home1.service not found.
+Nov 23 17:42:55 RIP kscreenlocker_greet[49798]: kf.kirigami: Failed to find a Kirigami platform plugin
+Nov 23 17:45:51 RIP dbus-daemon[529]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.home1.service': Unit dbus-org.freedesktop.home1.service not found.
+Nov 23 17:46:15 RIP plasmashell[49388]: [Child 49388, MediaDecoderStateMachine #1] WARNING: Decoder=7f6c40c70100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/src/firefox-107.0/dom/media/MediaDecoderStateMachine.cpp:370
+Nov 23 17:46:15 RIP plasmashell[49388]: [Child 49388, MediaDecoderStateMachine #1] WARNING: Decoder=7f6c54105800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/src/firefox-107.0/dom/media/MediaDecoderStateMachine.cpp:370
+Nov 23 18:15:50 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 18:18:45 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 18:30:51 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 18:38:45 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 19:01:00 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 19:06:27 RIP kscreenlocker_greet[52211]: kf.kirigami: Failed to find a Kirigami platform plugin
+Nov 23 19:08:45 RIP plasmashell[1515]: org.kde.plasma.notifications: Failed to determine mime type for QUrl("file:///run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip") "The file or folder /run/media/inightjar/INIGHTJAR/DevOps/SaleWebDesign.com-Mastering-Ansible.zip does not exist."
+Nov 23 19:13:42 RIP dbus-daemon[529]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.home1.service': Unit dbus-org.freedesktop.home1.service not found.
+Nov 23 19:21:39 RIP kscreenlocker_greet[52623]: kf.kirigami: Failed to find a Kirigami platform plugin
