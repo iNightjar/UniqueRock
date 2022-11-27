@@ -1,0 +1,1 @@
+28 * * * * /home/inightjar/ConTainer/codehub/BashScripts/CheckServersConnectivity/pingHosts | mail -s "connectivity status" example@email.com
