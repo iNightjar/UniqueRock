@@ -1,7 +1,7 @@
 #!/bin/bash
 # iNightjar
 
-hosts="/home/inightjar/ConTainer/codehub/BashScripts/CheckServersConnectivity/hosts" # hosts absolute path
+hosts="" # absolute path of the hosts
 
 for ip in $(cat $hosts)
 
