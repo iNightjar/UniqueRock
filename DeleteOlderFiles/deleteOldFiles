@@ -1,0 +1,4 @@
+#!/bin/bash
+#author: iNightjar
+
+find /home/inightjar/ConTainer/codehub/BashScripts/ -mtime +90 -exec mv {} {}.old \; 
