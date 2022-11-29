@@ -1,0 +1,29 @@
+#!/bin/bash
+#author: iNightjar
+
+read -p $'How many files you wish to create?\n' filesNumber
+
+read -p $'Please enter the start name of the files:\n' filesStartName
+
+for i in $(seq 1 $filesNumber)
+do
+    touch $filesStartName$i
+done
+
+
+total=`ls -l $filesStartName* | wc -l`
+read -p $'Wanna assign write permissions to that files?(yes/no)\n' perm
+if [ $perm = "yes" ]
+    then
+    echo It will take $total seconds to assign permissions..
+    echo
+    for i in $filesStartName*
+    do
+        echo Assigning write permissions to $i
+        chmod a+w $i
+        sleep 1
+    done    
+    else
+    echo Bye Bye
+    exit
+fi
