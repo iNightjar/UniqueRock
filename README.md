@@ -1,5 +1,17 @@
 # Automate Your Daily System Operations
 
+### User Management
+
+### Create New User Script
+
+![new users creation](https://raw.githubusercontent.com/iNightjar/UniqueRock/main/userCreationScript.gif)
+
+### System Logs
+
+### Show Users Logs, You can select which day too
+
+![Users Logged to sytem](https://raw.githubusercontent.com/iNightjar/UniqueRock/main/usersLogs.gif)
+
 ## Getting Started
 
 To get started just clone the repo into your machine and get started..
@@ -47,13 +59,3 @@ So as to prevent logging out and in again so as to load the changes done to the 
 ```
 
 Once that is done you are ready to go.
-
-### User Management
-
-### Create New User Script
-![new users creation](https://raw.githubusercontent.com/iNightjar/UniqueRock/main/userCreationScript.gif)
-
-### System Logs
-
-### Show Users Logs, You can select which day too.
-![Users Logged to sytem](https://raw.githubusercontent.com/iNightjar/UniqueRock/main/usersLogs.gif)
