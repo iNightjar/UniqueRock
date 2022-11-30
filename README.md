@@ -51,9 +51,9 @@ Once that is done you are ready to go.
 ### User Management
 
 ### Create New User Script
-[new users creation](https://raw.githubusercontent.com/iNightjar/UniqueRock/FristDocumenting/userCreationScript.mp4)
+![new users creation](https://raw.githubusercontent.com/iNightjar/UniqueRock/FristDocumenting/userCreationScript.mp4)
 
 ### System Logs
 
 ### Show Users Logs, You can select which day too.
-[Users Logged to sytem](https://raw.githubusercontent.com/iNightjar/UniqueRock/FristDocumenting/userslogs.mp4)
+![Users Logged to sytem](https://raw.githubusercontent.com/iNightjar/UniqueRock/FristDocumenting/usersLogs.mp4)
