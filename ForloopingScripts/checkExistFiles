@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# author: iNightjar
+# check if files exists
+
+
+files="/etc/passwd
+/etc/group
+/etc/shadow
+/etc/sshd_ssh_config"
+
+
+echo
+
+for file in $files
+do
+    if [ ! -e $file ]
+    then
+    echo $file do not exist
+    fi
+done
