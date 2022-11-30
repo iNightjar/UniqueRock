@@ -1,0 +1,38 @@
+#!/bin/bash
+# Author: iNightjar
+
+echo -e "\e[0;35m     This Script Must Be Run As Root !      \e[0m"
+
+read -p $'Provide us with the username?\n' username
+
+grep -q $username /etc/passwd
+    if [ $? -eq 0 ]
+    then
+    echo $'Username already exists\nPlease find another username !'
+    exit 0
+    fi
+
+
+read -p $'Provide us with user description?\n' description
+
+read -p $'Do you wanna specify a user ID?(yes/no)\n' input
+
+if [ $input == yes ];then
+    read -p $'Please enter user ID: ' ID
+    grep -q $ID /etc/passwd
+    if [ $? -eq 0 ]
+    then
+    echo ERROR -- UserID $ID already exists.
+    echo
+    exit 0
+    else
+    useradd $username -c "$description" -u $ID
+    echo 
+    echo $'Account has been created !\n'
+    fi
+
+elif [ $input == no ];then
+    echo $'No worries we will assign user ID !\n'
+    useradd $username -c "$description"
+    echo $'Account has been created!\n'
+    fi
