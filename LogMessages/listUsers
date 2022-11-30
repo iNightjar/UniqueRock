@@ -1,0 +1,20 @@
+#!/bin/bash
+# Author: iNightjar
+#  today=`date | awk '{print $1,$2,$3}'` 
+#  echo $today
+
+
+
+read -p $'Display Users Information Logged Today?(yes/no)\n' input
+
+if [ $input = "yes" ];then
+    today=`date | awk '{print $1,$2,$3}'` 
+    last | grep "$today"
+    exit
+else
+    read -p $'Please Enter Day(eg. Mon)\n' day
+    read -p $'Please Enter Month(eg. Aug)\n' month
+    read -p $'Please Enter Date(eg. 20)\n' date
+    last | grep "$day $month $date"
+    exit
+fi
