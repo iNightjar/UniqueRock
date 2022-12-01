@@ -1,0 +1,32 @@
+#!/bin/bash
+# author: iNightjar
+
+
+# create the database: /absolutePath/db-name
+
+
+read -p $'Please Enter Host Name! \n' hostname
+
+grep -q $hostname /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/database
+if [ $? -eq 0 ];then
+    echo  ERROR Host Already Exists!
+    exit 0 
+    fi
+
+
+read -p $'Please Enter IP Address! \n' ipaddress
+
+grep -q $ipaddress /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/database
+if [ $? -eq 0 ];then
+    echo  ERROR IP Address Already Exists!
+    exit 0 
+    fi
+
+read -p $'Please Enter Description! \n' description
+
+echo $hostname $ipaddress $description >> database
+echo
+
+echo "The Provided Record Has Been Added!"
+
+# End
