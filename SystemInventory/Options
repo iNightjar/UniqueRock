@@ -1,0 +1,20 @@
+#!/bin/bash
+# Author: iNightjar
+
+
+
+read -p $'Please Select One Of The Following Options!\na = Add a record\nd = Delete a record\n' choice
+
+# echo 'a = Add a record'
+# echo 'd = Delete a record'
+# echo
+#         read choice
+
+
+                case $choice in
+a) /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/addRecord;;
+d) /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/delRecord;;
+
+*) echo Invalid choice - Bye.
+
+                esac
