@@ -1,0 +1,17 @@
+#!/bin/bash
+# author: iNightjar
+
+
+# create the database: /absolutePath/db-name
+
+
+read -p $'Please Enter HostName Or IP Address ! \n' input
+
+grep -q $input /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/database
+
+if [ $? -eq 0 ];then
+echo
+sed -i '/'$input'/d' /home/inightjar/ConTainer/codehub/BashScripts/SystemInventory/database
+
+echo $input $'Has Been Deleted\n'
+fi
