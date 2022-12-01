@@ -1,1 +1,2 @@
-localhost 127.0.0.1 my local machine
+redhat1 120.122.93.10 redhat client to check connectivity
+localhost 127.0.0.1 local machine not connected to the internet
