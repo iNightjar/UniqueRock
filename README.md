@@ -20,7 +20,7 @@ To get started just clone the repo into your machine and get started..
 
 1. Clone the project to have the file at your localhost.
 
-```
+```bash
 git clone https://github.com/iNightjar/UniqueRock.git
 cd UniqueRock
 git checkout master
@@ -42,7 +42,7 @@ The script might not work out of the box, some tweaks and a little bit of hackin
 
 First to make the script executable from any directory, create a bin directory in your /home folder.
 
-```
+```bash
 ~$ mkdir bin
 ```
 
@@ -54,7 +54,7 @@ Create a .bash_aliases file if you dont have one and add this line
 
 So as to prevent logging out and in again so as to load the changes done to the *.bashrc* run this command from you home directory
 
-```
+```bash
 ~$ source ~/.bashrc
 ```
 
